@@ -1,2 +1,0 @@
-# suki
-Simple people
